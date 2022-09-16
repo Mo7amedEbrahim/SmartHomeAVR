@@ -1,0 +1,9 @@
+MCAL/EEPROM/eeprom.o MCAL/EEPROM/eeprom.o: ../MCAL/EEPROM/eeprom.c \
+  ../MCAL/EEPROM/../../LIB/STD_TYPES.h ../MCAL/EEPROM/eeprom.h \
+  ../MCAL/EEPROM/../I2C/I2C_INTERFACE.h
+
+../MCAL/EEPROM/../../LIB/STD_TYPES.h:
+
+../MCAL/EEPROM/eeprom.h:
+
+../MCAL/EEPROM/../I2C/I2C_INTERFACE.h:
